@@ -1,9 +1,10 @@
 # requirements.txt
-# No external libraries needed!
-# This project uses only Python built-in modules:
-#   - csv       (read/write CSV files)
-#   - os        (file path handling)
-#   - datetime  (date calculations)
+# Libraries needed for this project
 
-# To run the project, just make sure Python 3.7+ is installed.
-# Then run: python main.py
+streamlit>=1.30.0
+
+# The terminal version (main.py) uses only Python built-in modules
+# (csv, os, datetime) — no extra installs needed for that one.
+
+# To run the WEB app:    streamlit run app.py
+# To run the TERMINAL app: python main.py
