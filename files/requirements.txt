@@ -1,0 +1,10 @@
+# requirements.txt
+# Libraries needed for this project
+
+streamlit>=1.30.0
+
+# The terminal version (main.py) uses only Python built-in modules
+# (csv, os, datetime) — no extra installs needed for that one.
+
+# To run the WEB app:    streamlit run app.py
+# To run the TERMINAL app: python main.py
