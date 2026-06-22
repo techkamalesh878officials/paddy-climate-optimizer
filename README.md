@@ -2,7 +2,7 @@
 # 🌾 Rice Climate Risk & Precision Farming Assistant
 
 An AI-driven command-line tool that helps farmers decide **exactly when to sow and harvest rice** based on real-time climate inputs.
-
+## 🚀 [Try the Live App Here](https://hhwn2irdgy4u2r8bfgovq8weaponx.streamlit.app/)
 ---
 
 ## 🚀 What It Does
